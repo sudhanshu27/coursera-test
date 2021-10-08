@@ -16,10 +16,10 @@ body{
 }
 .row2{
 	width: 100%;
-	height: 400px;
+	height: 300px;
 	/*border: 1px solid green;*/
 	padding: 10px;
-	padding-top: 40px;
+	padding-top: 50px;
 	text-align: center;
 }
 
@@ -29,7 +29,7 @@ body{
 	border:  1px solid black;
 	float: left;
 	margin: 20px;
-	background-color: grey;
+	background-color: skyblue;
 }
 .c1{
 	height: 50px;
@@ -44,11 +44,11 @@ body{
 }
 
 #colour1{
-	background-color: blue;
+	background-color: lightgreen;
 }
 #colour2{
-	background-color: red;
+	background-color: lightpink;
 }
 #colour3{
-	background-color: green;
+	background-color: lightsalmon;
 }
