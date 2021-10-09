@@ -32,6 +32,9 @@ body{
 	margin: 1%;
 	background-color: lightseagreen;
 }
+.pclass{
+	padding: 10px;
+}
 .c1{
 	height: 48px;
 	width: 30%;
