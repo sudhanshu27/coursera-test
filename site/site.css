@@ -25,11 +25,12 @@ body{
 }
 
 .child{
-	height: 70%;
+	height: auto;
 	width:  30%;
 	border:  1px solid black;
 	float: left;
 	margin: 1%;
+	padding: 0px;
 	background-color: lightseagreen;
 }
 .pclass{
@@ -46,7 +47,7 @@ body{
 	font-size: 20px ;
 }
 .c1 p{
-	height: 100%;
+	/*height: 100%;*/
 	width:  100%;
 	padding-top : 10px;
 	/*vertical-align: center;*/
